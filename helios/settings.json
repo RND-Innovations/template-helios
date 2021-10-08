@@ -1,0 +1,30 @@
+{
+    "body_gradient_color_1": "#456578",
+    "body_gradient_color_2": "#994589",
+    "body_background_color": "#fefeff",
+    "body_foreground_color": "#ffeaea",
+    "topnav_background_color": "#cbbbcbf0",
+    "topnav_foreground_color": "#333333",
+    "social_menu": {
+        "Twitter": {
+            "href": "#",
+            "icon": "fa-twitter"   
+        },
+        "Facebook": {
+            "href": "#",
+            "icon": "fa-facebook-f"   
+        },
+        "Instagram": {
+            "href": "#",
+            "icon": "fa-instagram"   
+        },
+        "GitHub": {
+            "href": "#",
+            "icon": "fa-github"   
+        },
+        "YouTube": {
+            "href": "#",
+            "icon": "fa-youtube"   
+        }        
+    }
+}
