@@ -7,8 +7,8 @@ This template was created by HTML5UP for free and we converted it to RND Framewo
 
 # Installation Guide
 
-1. Download this from GitHub.
-2. Just put helios folder into your templates folder.
+1. Download and install RND Framework from here: https://github.com/RND-Innovations/Framework
+2. Just put helios folder into your "templates" folder.
 3. Set template path from your settings.json file.
 
 # Video Tutorials
